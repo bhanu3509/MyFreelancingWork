@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/snowflake3509/Freelancing/DEQUE/Array/DequeADTArray.cpp
+DequeADTArray.h
+/home/snowflake3509/Freelancing/DEQUE/Array/DequeADTArray.h
+
+/home/snowflake3509/Freelancing/DEQUE/Array/DequeADTArray.h
+iostream
+-
+
+/home/snowflake3509/Freelancing/DEQUE/LinkedList/DequeADTList.cpp
+iostream
+-
+DequeADTList.h
+/home/snowflake3509/Freelancing/DEQUE/LinkedList/DequeADTList.h
+
+/home/snowflake3509/Freelancing/DEQUE/LinkedList/DequeADTList.h
+istream
+-
+

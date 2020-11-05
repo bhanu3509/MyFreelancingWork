@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/DEQUE.dir/LinkedList/DequeADTList.cpp.o CMakeFiles/DEQUE.dir/Array/DequeADTArray.cpp.o  -o DEQUE 

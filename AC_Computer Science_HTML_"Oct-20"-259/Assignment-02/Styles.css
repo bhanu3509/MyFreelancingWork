@@ -1,0 +1,195 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.header1{
+    margin: 0%;
+    background: url("images/talking_heads-speaking_in_tongues.png")no-repeat;
+    background-position: center;
+}
+
+.header1 h1{
+    background-color: #fffb00;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: large;
+    padding: 10px;
+    margin-bottom: 0%;
+    margin-left: -30px;
+}
+
+.header1 nav{
+    background-color: #181616;
+    text-align: center;
+    padding-top: 10px;
+    margin-top: 0%;
+    padding-bottom: 10px;
+}
+
+.header1 nav ul{
+    list-style-type: none;
+
+}
+
+.header1 nav ul li{
+    text-decoration: none;
+    display: inline;
+    margin-right: 50px;
+
+
+}
+
+.header1 nav ul li a{
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: 500;
+    font-size: medium;
+}
+
+.main1 {
+    margin-top: 0%;
+}
+
+.main1 .header2{
+    margin-top: 0%;
+    background: url('images/bg-image.png')no-repeat;
+    /* background-color: #9e2a2a; */
+    /* filter: blur(10px); */
+    /* -webkit-filter: blur(10px); */
+    /* filter: blur(5.5px);
+    transform: scale(1.1); */
+    background-size: cover;
+    image-rendering: pixelated;
+}
+
+.main1 .header2 .image-right{
+    float: right;
+    width: 5%;
+    margin-right: 100px;
+    padding: 30px;
+}
+
+.text-left{
+    /* float: left; */
+    padding-bottom: 75px;
+    padding-left: 150px;
+}
+
+.text-left h1{
+    color: #fffb00;
+    padding-top: 50px; 
+    text-transform: uppercase;
+    font-weight: 800;
+}
+
+.text-left h2{
+    color: #ffffff;
+    text-transform: uppercase;
+    font-weight: 800;
+    font-size: large;
+    /* padding-top: 50px;  */
+}
+
+.text-left h3{
+    color: #b4b4b4;
+    padding-top: 10px; 
+    font-size: medium;
+    text-transform: uppercase;
+}
+
+article section h2{
+    background-color: #fffb00;
+    font-weight: 500;
+    font-size: medium;
+    text-transform: uppercase;
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
+article section p{
+    border-left: 2px #fffb00 solid;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.verse{
+    margin-left: 100px;
+}
+
+.chorus{
+    margin-left: 200px;
+}
+ 
+.aside-block{
+    width: 150px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 0%;
+    margin-top: 25px;
+    background-color: #272424;
+    height: 100%;
+}
+
+.aside-block h2{
+    background-color: #fffb00;
+    color: #181616;
+    text-transform: uppercase;
+    font-size: medium;
+    padding: 10px;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-bottom: 0px;
+}
+
+.aside-block p{
+    color: #ffffff;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
+.aside-block blockquote a{
+    color: #fffb00;
+}
+
+.aside-block blockquote{
+    color: #ffffff;
+    display: inline-block;
+    margin-left: 75px;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+
+.aside-block section{
+    border-top: 5px solid #ffffff;
+    padding: 10px;
+    margin-left: 50px;
+    margin-right: 50px
+}
+
+.aside-block section iframe{
+    width: 100%;
+    height: 100%;
+    /* margin-top: 20px; */
+    padding: 5%;
+}
+
+footer{
+    /* text-align: cent; */
+    font-size: small;
+    border-top: 5px #fffb00 solid;   
+    padding: 5px;
+    margin-top: 50px;
+}
+
+footer cite{
+    font-size: smaller;
+}
+
+footer a{
+    background-color: #fffb00;
+}

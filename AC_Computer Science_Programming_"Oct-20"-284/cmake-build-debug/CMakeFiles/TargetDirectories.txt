@@ -1,0 +1,3 @@
+/home/snowflake3509/Freelancing/DEQUE/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/snowflake3509/Freelancing/DEQUE/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/snowflake3509/Freelancing/DEQUE/cmake-build-debug/CMakeFiles/DEQUE.dir
