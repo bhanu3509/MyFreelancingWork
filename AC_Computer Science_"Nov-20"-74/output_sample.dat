@@ -1,0 +1,88 @@
+{
+"thesaurus": [
+{
+"Description": "The standard airgun calibre for international target shooting.",
+"RelatedTerms": [
+{
+"Relationship": "Narrower Term",
+"Title": "Shooting sport equipment"
+}
+],
+"Title": ".177 (4.5mm) Airgun"
+},
+{
+"Description": "A rimfire calibre, much used in target shooting and often synonymous with the term smallbore.",
+"RelatedTerms": [
+{
+"Relationship": "Narrower Term",
+"Title": "Shooting sport equipment"
+}
+],
+"Title": ".22"
+},
+{
+"Description": "The standard .22 rimfire cartridge for target rifle and pistol use.",
+"RelatedTerms": [
+{
+"Relationship": "Narrower Term",
+"Title": "Shooting sport equipment"
+}
+],
+"Title": ".22 Long Rifle"
+},
+{
+"Description": "Used as a target shooting round for timed fire pistol competitions.",
+"RelatedTerms": [
+{
+"Relationship": "Narrower Term",
+"Title": "Shooting sport equipment"
+}
+],
+"Title": ".22 Short"
+},
+{
+"Description": "test2",
+"RelatedTerms": [
+{
+"Relationship": "Used For",
+"Title": "1 Kilometre TT"
+},
+{
+"Relationship": "Used For",
+"Title": "1km Time Trial"
+},
+{
+"Relationship": "Used For",
+"Title": "1km Time Trial"
+},
+{
+"Relationship": "Used For",
+"Title": "1km TT"
+},
+{
+"Relationship": "Used For",
+"Title": "One km Time Trial"
+}
+],
+"Title": "1 Kilometre Time Trial"
+},
+{
+"Description": "Cycling Road Race",
+"RelatedTerms": [
+{
+"Relationship": "Narrower Term",
+"Title": "Cycling competitions"
+},
+{
+"Relationship": "Narrower Term",
+"Title": "International competitions"
+},
+{
+"Relationship": "Narrower Term",
+"Title": "International Cycling competitions"
+}
+],
+"Title": "4 Jours de Dunkerque"
+}
+]
+}
